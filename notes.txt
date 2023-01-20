@@ -1,0 +1,36 @@
+LEC 2:
+ HTML ELEMENTS CAN HAVE ATTRIBUTES:
+
+some dont require closing tags :
+
+example: <br> line break;
+       : <hr> horizontal rule;
+
+hr is element
+size will be attributes, <hr size =" ",
+
+ HR ATTRIBUTES:
+This element's attributes include the global attributes.
+
+align Deprecated Non-standard
+Sets the alignment of the rule on the page. If no value is specified, the default value is left.
+
+color Deprecated Non-standard
+Sets the color of the rule through color name or hexadecimal value.
+
+noshade Deprecated Non-standard
+Sets the rule to have no shading.
+
+size Deprecated Non-standard
+Sets the height, in pixels, of the rule.
+
+width Deprecated Non-standard
+Sets the length of the rule on the page through a pixel or percentage value.
+
+
+LEC 6
+ul , lii opening and closing tags :
+
+lec7
+image tag is a self closing tag
+you need to specigy the source too, that can either be a url or a local image.
